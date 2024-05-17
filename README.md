@@ -13,7 +13,7 @@ Hello! I'm Clinton Ogechi, a passionate web dev with experience in front end dev
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. You can reach me at:
 
 #### Email: clintogechi@gmail.com 
-#### LinkedIn: [Clinton Ogechi] (https://www.linkedin.com/in/clinton-ogechi-390736135/)
+#### LinkedIn: [Clinton Ogechi](https://www.linkedin.com/in/clinton-ogechi-390736135/)
 #### Website: [Clinton Ogechi](https://clinton-ogechi-portfolio.vercel.app/)
 Thank you for visiting my portfolio!
 
