@@ -428,9 +428,13 @@ section {
 }
 
 .about .row strong {
-
-  color: #DC143C;
+   color: #DC143C;
 }
+
+.about .row img{
+  border-radius: 50%;
+}
+
 .about ul li {
   font-size: 15px;
 }
